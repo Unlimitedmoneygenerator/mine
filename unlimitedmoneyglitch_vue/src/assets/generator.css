@@ -1,0 +1,504 @@
+#header {
+	position: absolute;
+	width: 100%;
+	height: 6%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 0px;
+	top: 0px;
+	z-index: 3;
+	
+	background-color: black;
+	opacity: 0.35;
+	filter: drop-shadow(2px 2px 2px #030304)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#downbelow {
+	position: absolute;
+	width: 100%;
+	height: 25.7%;
+	padding: 10px;
+	border: 0px solid gray;
+	right: 0px;
+	top: 267%;
+	z-index: 1;
+	opacity: 0.035;
+	background-color: rgb(70,160,160);
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#full {
+	position: absolute;
+	width: 100%;
+	height: 200%;
+	padding: 10px;
+	border: 0px solid gray;
+	right: 0px;
+	top: 0%;
+	z-index: 1;
+	opacity: 0.05;
+	background-color: rgb(0,80,95);
+	filter: drop-shadow(2px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#cursor {
+	position: absolute;
+	
+	border: 0px solid gray;
+	right: 10%;
+	top: 180%;
+	z-index: 7;
+	opacity: 1;
+	filter: drop-shadow(2px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+body {
+	overflow-x: hidden;
+	/* Hide scrollbars */
+}
+
+#backnews {
+	position: absolute;
+	width: 95%;
+	height: 89%;
+	border: 1px solid black;
+	right: 2.5%;
+	top: 5%;
+	z-index: 4;
+	opacity: 0.6;
+	background-color: RGB(12,12,12);
+	filter: drop-shadow(4px 2px 2px #222d33)
+}
+
+#news {
+	position: absolute;
+	width: 75%;
+	height: 85%;
+	
+	right: 13%;
+	top: 8%;
+	z-index: 5;
+	opacity: 0.8;
+	background-color: black;
+	filter: drop-shadow(2px 2px 3px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#opencontent {
+	position: absolute;
+	width: 95%;
+	height: 75%;
+
+	
+	
+	
+	
+	
+	right: 2.5%;
+	
+	top: 9.5%;
+	z-index: 5;
+	
+	
+	#filter: drop-shadow(4px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+#letter {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	
+	right: -55%;
+	top: 24%;
+	z-index: 4;
+	opacity: 1;
+	
+	color:green;
+	filter: drop-shadow(4px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+#profile {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	right: -1%;
+	top: 10%;
+	z-index: 4;
+	opacity: 1;
+	color: green;
+	filter: drop-shadow(4px 2px 2px #222d33);
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#namer {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:-5%;
+	right:-7%;
+	z-index: 4;
+	opacity: 1;
+	color: green;
+	filter: drop-shadow(4px 2px 2px #222d33);
+	font-size:96%
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+
+#world {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		right: -18.5%;
+		top: 11.5%;
+		z-index: 4;
+		opacity: 1;
+		color: green;
+		filter: drop-shadow(4px 2px 2px #222d33);
+		font-size:91%;
+	}
+
+#money {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	right: -15.5%;
+	top: 19.5%;
+	z-index: 4;
+	opacity: 1;
+	color: green;
+	filter: drop-shadow(4px 2px 2px #222d33);
+	font-size:91%;
+}
+
+#level {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	right: -16%;
+	top: 27%;
+	z-index: 4;
+	opacity: 1;
+	color: green;
+	filter: drop-shadow(4px 2px 2px #222d33);
+	font-size: 91%
+}
+
+#rtp {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	right: -16.5%;
+	top: 34.5%;
+	z-index: 4;
+	opacity: 1;
+	color: green;
+	filter: drop-shadow(4px 2px 2px #222d33);
+	font-size: 91%
+}
+
+
+#contback {
+	position: absolute;
+	width: 99.5%;
+	height: 100%;
+	border: 2px solid black;
+	right: 0%;
+	top: 0%;
+	padding:5px;
+	z-index: 4;
+	opacity: 0.6;
+	background-color: black;
+	filter: drop-shadow(4px 4px 4px #030304)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+#name {
+	position: absolute;
+	width: 20%;
+
+	height: 7%;
+	border: 0px solid black;
+	right: 41%;
+	top: 83.5%;
+	z-index: 5;
+	opacity: 0.3;
+	background-color: black;
+	filter: drop-shadow(2px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+/*
+#seasonload {
+	position: absolute;
+	width: 95%;
+	height: 75%;
+	border: 4px solid black;
+	right: 2.5%;
+	top: 9.5%;
+	z-index: 5;
+	opacity: 1x;
+	background-color: darkslategray;
+	filter: drop-shadow(4px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.
+}
+*/
+#blowheader {
+	position: absolute;
+	width: 96%;
+	height: 60%;
+	padding: 10px;
+	border: 0px solid gray;
+	opacity: 0.5;
+	right: 1.5%;
+	top: 88.5%;
+	z-index: 2;
+	background-color: black;
+	filter: drop-shadow(2px 2px 2px #222d33)
+}
+
+#firstcontent {
+	position: absolute;
+	width: 25%;
+	height: 55%;
+	padding: 10px;
+	border: 0px solid gray;
+	opacity: 0.3;
+	right: 3.75%;
+	top: 91.25%;
+	z-index: 2;
+	background-color: black;
+	filter: drop-shadow(2px 2px 2px #222d33)
+}
+
+#secondcontent {
+	position: absolute;
+	width: 24%;
+	height: 55%;
+	padding: 10px;
+	border: 0px solid gray;
+	opacity: 0.3;
+	right: 71.25%;
+	top: 91.25%;
+	z-index: 2;
+	background-color: black;
+	filter: drop-shadow(2px 2px 2px #222d33)
+}
+
+
+#content {
+	position: absolute;
+	width: 35%;
+	height: 56%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 32.5%;
+	top: 90.5%;
+	z-index:5;
+	filter: drop-shadow(2px 2px 4px #222d33)
+}
+
+
+#backgroundcontent {
+	position: absolute;
+	width: 96.5%;
+	height: 96.5%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 0;
+	top: 0;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 6;
+}
+
+
+#pic {
+	position: relative;
+	border: 0px solid gray;
+	width: 100%;
+	height: 100%;
+	right: 0.15%;
+	top:0.25;
+	background-color: black;
+	z-index: 6;
+	filter: blur(0.01rem); /* 0.01 no blur 0.1 blur*/
+	opacity: 1;
+}
+
+
+#fulldown {
+	position: absolute;
+	width: 100%;
+	height: 108%;
+	padding: 10px;
+	border: 0px solid gray;
+	right: 0px;
+	top: 157%;
+	z-index: 1;
+	opacity: 0.06;
+	background-color: rgb(100,255,215);
+	filter: drop-shadow(2px 2px 2px #222d33)
+	/*bright green bar up top with level  consent form and signature send to inventory.*/
+}
+
+
+#backdrop {
+	position: absolute;
+	width: 96%;
+	height: 102%;
+	border: 0px solid gray;
+	right: 1.9%;
+	top: 160.75%;
+	z-index: 5;
+	opacity: 1;
+	filter: drop-shadow(4px 4px 4px #030304);
+}
+
+#backid {
+	position: absolute;
+	z-index: 5;
+	opacity: 1;
+	padding:10px;
+	top:0%;
+	right:0%;
+	width:100%;
+	height:100%;
+}
+
+#background {
+	position: absolute;
+	width: 100%;
+	height: 102%;
+	padding: 10px;
+	border: 0px solid gray;
+	right: -.5%;
+	top: -2%;
+	z-index: 6;
+	filter: drop-shadow(0px 4px 4px #222d33);
+	background-color: rgb(5, 5, 5);
+	opacity: 0.4;
+}
+
+
+#umgbars {
+	position: absolute;
+	width: 3.5%;
+	height: 75%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 102.35%;
+	top: 70.5%;
+	background-color: green;
+	/*background-color: rgb(55, 189, 100); background-color: rgb(5, 5, 5);*/
+	opacity: 1;
+	z-index: 5;
+	/*filter: drop-shadowwhen come back add season progress bar plus timer.
+ add audio disable trades, disable friends, donate button, trading, marketplace.
+up top at header, support, profile(bio, profile pic),funds,logout,player data like money and name,home
+    create guilds. ranked guilds highest level guild gets cash prize. also daily reward for betting.
+    everytime people win for loop make it drag to bottom of screen top. light green text.
+    rank by player, rank by guild. season guilds. then reset. invite to guild. create guild. dont tell people what glitches are used for. let them figure it out lol.
+    show season guild rankings at the top, news and updates at the top. rules at the top. top season players.
+(0px 4px 4px #222d33);*/
+}
+
+
+#forceluck {
+	position: absolute;
+	width: 10.5%;
+	height: 3%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 12.35%;
+	top: 185.5%;
+	/*background-color: rgb(200,200,200);*/
+	opacity: 1;
+	filter: brightness(1.10);
+	z-index: 9;
+	/*filter: drop-shadow(0px 4px 4px #222d33);*/
+}
+
+#players {
+	position: absolute;
+	width: 12%;
+	height: 0.5%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 5.35%;
+	top: 168.5%;
+	/*background-color: rgb(200,200,200);*/
+	opacity: 0.5;
+	filter: brightness(1.10);
+	z-index: 9;
+	/*filter: drop-shadow(0px 4px 4px #222d33);*/
+}
+
+#titled {
+	position: absolute;
+	width: 15%;
+	height: 1%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: 42.50%;
+	top: 134.4%;
+	background-color: rgb(0,0,0);
+	opacity: 0.7;
+	filter: brightness(1.10);
+	z-index: 9;
+	/*filter: drop-shadow(0px 4px 4px #222d33);*/
+}
+
+#gene {
+	position: relative;
+	width: 15%;
+	height: 1.5%;
+	padding: 10px;
+	border: 0px solid gray;
+	margin: 40;
+	right: -10%;
+	top: -5%;
+	opacity: 1;
+	filter: brightness(1.10);
+	z-index: 9;
+	text-align: center;
+	color: palegreen;
+	filter: brightness(1.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

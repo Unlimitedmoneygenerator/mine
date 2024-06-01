@@ -1,0 +1,41 @@
+Content-Type: multipart/alternative;
+ boundary="===============3845593933826438575=="
+MIME-Version: 1.0
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: dezzdadude232@gmail.com
+Date: Sat, 27 Jan 2024 01:35:59 -0000
+Message-ID: 
+ <170631935909.19708.453040070051221808@LAPTOP-6IEGIKLM.hsd1.la.comcast.net>
+
+--===============3845593933826438575==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+http://http://localhost:8080//Home/MTc/c1f7jz-e67726abec62a58f4ea6b8a5e0f3787d
+Your username, in case you've forgotten: Arcangell
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+--===============3845593933826438575==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<p>You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.</p>
+
+<p>Please go to the following page and choose a new password:</p>
+<a href="http://http://localhost:8080//Home/MTc/c1f7jz-e67726abec62a58f4ea6b8a5e0f3787d">http://http://localhost:8080//Home/MTc/c1f7jz-e67726abec62a58f4ea6b8a5e0f3787d</a>
+<p>Your username, in case you've forgotten: <b>Arcangell</b></p>
+
+<p>Thanks for using our site!</p>
+
+<p>The 127.0.0.1:8000 team</p>
+--===============3845593933826438575==--
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+Content-Type: multipart/alternative;
+ boundary="===============8432742098907595848=="
+MIME-Version: 1.0
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: unlimitedmoneygenerator@gmail.com
+Date: Fri, 23 Feb 2024 15:58:25 -0000
+Message-ID: <170870390552.20072.813286123432154136@LAPTOP-6IEGIKLM>
+
+--===============8432742098907595848==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+http://localhost:8080/home/MQ/c2ubhd-2e28d7588f7eccf8fde565ab61daadab
+Your username, in case you've forgotten: vox
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+--===============8432742098907595848==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<p>You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.</p>
+
+<p>Please go to the following page and choose a new password:</p>
+<a href="http://localhost:8080/home/MQ/c2ubhd-2e28d7588f7eccf8fde565ab61daadab">http://localhost:8080/home/MQ/c2ubhd-2e28d7588f7eccf8fde565ab61daadab</a>
+<p>Your username, in case you've forgotten: <b>vox</b></p>
+
+<p>Thanks for using our site!</p>
+
+<p>The 127.0.0.1:8000 team</p>
+--===============8432742098907595848==--
+
+-------------------------------------------------------------------------------
